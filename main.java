@@ -109,6 +109,8 @@ public class Node
         node5.generateHashCode();
         node6.generateHashCode();
         node7.generateHashCode();
+        
+        System.out.println("Tree Created Successfully");
     }
 }
  
